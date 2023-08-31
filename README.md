@@ -6,7 +6,7 @@ _Capstone Project for neuefische **Data Analytics** Bootcamp by Helena Heil, Leo
 
 As a new small-business owner offering online statistics courses, Julian was wondering which way would help him grow best. Thanks to regular communication with him and data from the video hosting platform, not only did we find out what he should focus on, but also built a data pipeline, so he can easily analyze the data for future purposes.
 
-![Data Pipeline](https://i.ibb.co/gth0gb8/Capstone-Data.png)
+![Data Pipeline](https://i.ibb.co/n6H2TgQ/Capstone-Data.png)
 
 ## File Info
 
