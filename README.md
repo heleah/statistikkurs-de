@@ -1,6 +1,6 @@
 # statistik-kurs.de - Improving Business Understanding for a Professional Statistics Coach
 
-_Capstone Project for neuefische **Data Analytics** Bootcamp by Helena Heil, Leon Hocker, Sascha Müller_
+_Capstone Project for neuefische **Data Analytics** Bootcamp by [Helena Heil](https://github.com/heleah), [Leon Hocker](https://github.com/garnicht), [Sascha Müller](https://github.com/SaschaData)_
 
 ## Description
 
